@@ -106,11 +106,11 @@ export default function Home() {
       <main className="relative z-10 grid min-h-dvh place-items-center px-6">
         <div className="text-center">
           <h1 className="select-none text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-extrabold tracking-tight leading-[1.05] text-transparent bg-clip-text bg-[linear-gradient(120deg,#fff,75%,#ff8bd5)] drop-shadow-[0_6px_24px_rgba(255,120,170,0.20)] animate-shine">
-            นอทรักรันม่าง้าบ 💜
+            นอทรักรันม่าง้าบ
           </h1>
 
         <p className="mt-6 text-base sm:text-lg text-white/70">
-            รักงับอ้วงงง ✨
+            รักงับอ้วงงง 💜
           </p>
         </div>
       </main>
